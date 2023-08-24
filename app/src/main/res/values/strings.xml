@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_menu_1">Aplikasi MyStoryApp</string>
+    <string name="title_menu_2">Jelajahi Cerita Anda</string>
+    <string name="title_menu_3">Simpanlah Momen Momen Dalam Cerita Anda</string>
+    <string name="title_menu_4">Login untuk melanjutkan</string>
+    <string name="desc_menu_1">Aplikasi untuk dicoding submission</string>
+    <string name="desc_menu_2">Jelajahi cerita cerita dan momen menarik dalam hidup anda</string>
+    <string name="desc_menu_3">Tidak perlu khawatir akan kehilangan momen tersebut, kami akan menyimpanya</string>
+    <string name="desc_menu_4">Login setelah menekan tombol dibawah</string>
+    <string name="explore_now">Coba Sekarang</string>
+    <string name="error">Error</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="input_invalid">Input Invalid</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="user_profile">User Profile</string>
+    <string name="default_text">Welcome Back</string>
+    <string name="logout">Logout</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_password">Change Password</string>
+    <string name="success">Success</string>
+    <string name="retry">Retry</string>
+    <string name="content_desc_detail_story_photo">Content Description</string>
+    <string name="description">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="add_story">Add Story</string>
+    <string name="please_choose_image">Please Choose Image</string>
+    <string name="add_story_success">Add Story Success</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="cant_get_camera_permission">Can\'t get camera permission</string>
+    <string name="cant_get_location_permission">can\'t get location permission</string>
+    <string name="location_not_found">location not found</string>
+
+</resources>

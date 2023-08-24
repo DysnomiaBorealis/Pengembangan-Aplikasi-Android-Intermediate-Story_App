@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="sea_blue">#5588EE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#F06292</color>
+    <color name="navi">#2D3D4F</color>
+    <color name="dark_grey">#2f4f4f</color>
+    <color name="orange">#FF815E</color>
+    <color name="coral_red">#FF7F50</color>
+    <color name="gray_200">#ADA4A5</color>
+
+
+    <color name="primary">#5588EE</color>
+    <color name="primaryVariant">#5588EE</color>
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="onBackground">#000000</color>
+    <color name="onError">#FFFFFF</color>
+
+    <color name="onPrimaryHigh">#FFFFFF</color>
+    <color name="onPrimaryMedium">#BDFFFFFF</color>
+    <color name="onPrimaryDisabled">#61FFFFFF</color>
+
+    <color name="onSurfaceHigh">#DE000000</color>
+    <color name="onSurfaceMedium">#99000000</color>
+    <color name="onSurfaceDisabled">#61000000</color>
+
+    <color name="colorPrimary">#49A35A</color>
+    <color name="colorPrimaryDark">#0C732F</color>
+    <color name="colorPrimaryLight">#7BD588</color>
+    <color name="bg_edit_text">#EFEFEF</color>
+    <color name="outline">#1F000000</color>
+
+
+</resources>
