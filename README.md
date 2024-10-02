@@ -1,17 +1,27 @@
 # Pengembangan-Aplikasi-Android-Intermediate-Story_App
 
-Dicoding Android Intermediate Submission with MVVM architecture and Clean Architecture using SOLID (or atleast SOID principle)
+This is my submission for Dicoding's Android Intermediate course, built using the MVVM (Model-View-ViewModel) architecture and Clean Architecture principles, incorporating the SOLID principles (or at least the SOID principle). The app is developed with Kotlin and XML views for Android.
 
-Using Story API from Dicoding https://story-api.dicoding.dev/v1 and Google Maps functionality
+The app integrates the Story API from Dicoding (Story API) and utilizes Google Maps functionality to enhance user experience.
+Key Features
 
-The primary functions of this app are :
-1. Users can upload photo then turn on their location of where the photo is taken directly via the phone's camera.
-2. Users can upload photo via their own gallery, so it's not limited to the phone's main camera.
-3. Users can change language.
-4. Users can create accounts.
-5. Users may be able to save the login authentication, so when the app is closed it's not obligated to login again, they are already logged-in automatically.
-6. Users can logout from those said accounts.
+    Photo Upload with Location: Users can upload photos directly through the phone's camera, with the option to turn on location services to tag the location where the photo was taken.
+    Gallery Photo Upload: Users are also able to upload photos from their device’s gallery, offering flexibility beyond just using the phone's camera.
+    Language Support: The app allows users to switch between different languages, enhancing accessibility for a diverse user base.
+    Account Creation: Users can easily create new accounts and manage their profiles within the app.
+    Persistent Login: Once logged in, users can remain authenticated even after closing the app, thanks to a saved login authentication mechanism. This means they won’t need to log in again   unless they manually log out.
+    Logout Functionality: Users can log out from their accounts whenever they choose, clearing the saved login credentials.
 
+Technologies Used
+
+    Kotlin for core app development.
+    MVVM Architecture for a clear separation of concerns and ease of testability.
+    Clean Architecture to keep the code modular, maintainable, and scalable.
+    Google Maps API to enhance photo uploads with geolocation data.
+    Story API to fetch and manage user stories within the app.
+    SOLID Principles to ensure a clean and extendable codebase.
+
+This app offers an intuitive and seamless experience for users to upload and share stories with geolocation, while also providing the convenience of persistent login and multi-language support
 This is the demo of the Application
 
 https://github.com/DysnomiaBorealis/Pengembangan-Aplikasi-Android-Intermediate-Story_App/assets/94872765/48adcdb4-e04b-4d22-9250-1d7a4ffff62a
